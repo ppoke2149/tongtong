@@ -1,0 +1,18 @@
+header{
+    margin: auto;
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    position: relative;
+    display: inline;
+}
+
+/* 홈 텍스트 */
+.txt-home{
+    color: white;
+    position: absolute;
+    font-size: 5vw;
+    font-weight: bold;
+    top: 21%;
+    left: 40.3%;
+}

@@ -1,0 +1,71 @@
+
+/* 버튼 위치 */
+.start-img-btn{
+    display: block;
+    width: 20%;
+    height: auto;
+    margin-top: -8%;
+    margin-left: 40%;
+}
+
+/* 3개 목록 */
+
+.three-img-btn0{
+
+    display: block;
+    width: 20%;
+    height: auto;
+    margin-top: -16%;
+    margin-left: 12%;
+}
+.three-img-btn1{
+    display: block;
+    width: 20%;
+    height: auto;
+    margin-top: -3%;
+    margin-left: 40.5%;
+}
+
+.three-img-btn2{
+    display: block;
+    width: 20%;
+    height: auto;
+    margin-top: -3%;
+    margin-left: 69.5%;
+}
+
+/* 2개 목록 */
+
+.two-img-btn0{
+    display: block;
+    width: 20%;
+    height: auto;
+    margin-top: -18%;
+    margin-left: 19.5%;
+}
+
+.two-img-btn1{
+    display: block;
+    width: 20%;
+    height: auto;
+    margin-top: -5.5%;
+    margin-left: 59.1%;
+}
+
+/* home btn */
+
+.home-btn{
+    display: block;
+    width: 5%;
+    height: auto;
+    margin-top: -34%;
+    margin-left: 85%;
+}
+
+.back-btn{
+    display: block;
+    width: 5%;
+    height: auto;
+    margin-top: -5%;
+    margin-left: 12%;
+}
